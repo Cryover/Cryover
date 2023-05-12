@@ -25,4 +25,5 @@
   <img align="center" alt="TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="Styled" height="30" width="40" src="https://avatars.githubusercontent.com/u/20658825?v=4">
+  <img align="center" alt="Styled" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png">
 </div>
