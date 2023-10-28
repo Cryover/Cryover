@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jonatan
 - 👀 I’m interested in Web Software Development.
-- 🌱 I’m currently learning Angular and Vue.
+- 🌱 I’m currently learning Angular, React Native and Redux.
 - 💞️ I’m looking to collaborate on projects so i can learn more programming languages and improve on those that i already know.
 
 <div>
@@ -21,6 +21,7 @@
 <div style="display: flex">
   <img align="center" alt="Angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Redux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="TS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="SASS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
